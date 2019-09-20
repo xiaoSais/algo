@@ -128,5 +128,8 @@
 
 <a href="./docs/字符串中的第一个唯一字符.md">63、字符串中第一个唯一字符（387）</a>
 
+<a href="./docs/两个数组的交集.md">64、两个数组的交集（349）</a>
 
-<a href="./docs/bigram分词.md">64、Bigram 分词（1078）</a>
+<a href="./docs/两个数组的交集2.md">65、两个数组的交集2（350）</a>
+
+<a href="./docs/bigram分词.md">66、Bigram 分词（1078）</a>
